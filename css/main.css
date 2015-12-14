@@ -1,0 +1,18 @@
+li{
+    border-bottom: 1px lightgray solid;
+}
+
+li > h3{
+    
+    padding-left: 50px;
+    padding-top:10px;
+    padding-bottom: 8px;
+    
+}
+
+.taskDone h3{
+    
+    color: green;
+    text-decoration: line-through;
+    
+}
